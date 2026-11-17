@@ -4,13 +4,13 @@
 
 ### Da busca em linguagem natural à simulação de agendamento.
 
-**Uma demonstração full-stack de healthtech, com RAG híbrido real, interface premium, catálogo de serviços, comparação inteligente, carteira simulada e reservas persistidas.**
+**Uma demonstração full-stack de healthtech, com RAG híbrido real,, catálogo de serviços, comparação inteligente, carteira simulada e reservas persistidas.**
 
 `Python 3.11+` · `FastAPI` · `SQLite` · `BM25 + LSA` · `RRF` · `JavaScript` · `CSS responsivo`
 
 **100% demonstrativo** &nbsp;|&nbsp; ** Evidências rastreáveis** &nbsp;|&nbsp; ** 11 testes automatizados** &nbsp;|&nbsp; ** Sem necessidade de API key**
 
-> Projeto independente inspirado no protótipo visual fornecido. Não representa um produto oficial, integração, parceria, atendimento ou sistema de pagamentos da Exmed. Todos os prestadores, endereços, avaliações, serviços negociados, saldos e horários são exemplos fictícios.
+> Projeto academico com uma empresa real e dados simulados.
 
 </div>
 
